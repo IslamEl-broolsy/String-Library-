@@ -29,14 +29,3 @@ It introduces a wide range of functionalities, including case conversion, word c
 | `main.cpp`    | Demo file with examples for each method |
 
 ---
-
-## 🏗️ How to Build and Run
-
-### Prerequisites
-
-- C++ Compiler (e.g., GCC, Clang, MSVC)
-- C++11 standard or higher recommended
-
-### Build Instructions
-
-```bash
